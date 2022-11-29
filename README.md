@@ -8,19 +8,22 @@
 
 
 
-## Table of Contents (Optional)
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
-* [User Story](#user story)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
 
 ## User Story
 
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
 
-## Features
+## Acceptance Criteria
+
+The Website will meet accessibility standards. I can achieve this completing the following:
+
+Semantic HTML elements can be found throughout the source code
+HTML elements follow a logical structure independent of styling and positioning
+Image and icon elements contain accessible alt attributes
+Heading attributes fall in sequential order
+Title elements contain a concise, descriptive title
 
 
 ## Credits
